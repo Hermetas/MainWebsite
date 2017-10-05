@@ -57,7 +57,7 @@ textarea {
 .external i {
   vertical-align: super;
   font-size: small;
-  margin-left: -5px;
+  margin-left: 2px;
 }
 .header-container i {
   display: none; /* Don't show external link icon in main nav bar */
