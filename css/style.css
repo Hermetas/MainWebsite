@@ -1,0 +1,28 @@
+/* MY CUSTOM STYLES */
+.navbar-brand img {
+	max-width: 80px;
+}
+body {
+    font-family: 'EB Garamond', serif;
+}
+h1 {
+	text-align: center;
+}
+h1, h2, h3 {
+	font-family: 'Lobster', cursive;
+    text-shadow: 4px 4px 4px #aaa;
+	color: #F78C40;
+}
+article p:first-letter {
+  float: left;
+  margin: 0 7px -5px 0;
+  font-size: 400%;
+  line-height: 100%;
+  font-family: 'Dancing Script';
+  font-weight: 700;
+  color: #F78C40;
+  text-shadow: #e16309 -1px 0, #e16309 0 -1px, #e16309 0 1px, #e16309 -1px -2px;
+}
+.fa-star {
+	color: orangered;
+}
