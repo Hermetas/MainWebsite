@@ -26,3 +26,7 @@ article p:first-letter {
 .fa-star {
 	color: orangered;
 }
+address {
+	font-family: 'Roboto Slab', serif;
+	line-height: 1;
+}
