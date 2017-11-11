@@ -4,6 +4,7 @@
 }
 body {
     font-family: 'EB Garamond', serif;
+	text-justify: auto;
 }
 h1 {
 	text-align: center;
@@ -22,6 +23,9 @@ article p:first-letter {
   font-weight: 700;
   color: #F78C40;
   text-shadow: #e16309 -1px 0, #e16309 0 -1px, #e16309 0 1px, #e16309 -1px -2px;
+}
+article p {
+	text-align: justify;
 }
 .fa-star {
 	color: #e65100;
