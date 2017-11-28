@@ -2,6 +2,9 @@
 .navbar-brand img {
 	max-width: 80px;
 }
+.navbar {
+	font-size: x-large;
+}
 body {
     font-family: 'EB Garamond', serif;
 	text-justify: auto;
@@ -12,7 +15,7 @@ h1 {
 h1, h2, h3 {
 	font-family: 'Lobster', cursive;
     text-shadow: 4px 4px 4px #aaa;
-	color: #F78C40;
+	color: #E65100;
 }
 article p:first-letter {
   float: left;
@@ -21,7 +24,7 @@ article p:first-letter {
   line-height: 100%;
   font-family: 'Dancing Script';
   font-weight: 700;
-  color: #F78C40;
+  color: #E65100;
   text-shadow: #e16309 -1px 0, #e16309 0 -1px, #e16309 0 1px, #e16309 -1px -2px;
 }
 article p {
