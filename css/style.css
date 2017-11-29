@@ -1,9 +1,11 @@
 /* MY CUSTOM STYLES */
 .navbar-brand img {
 	max-width: 80px;
+	background-color: white;
 }
 .navbar {
 	font-size: x-large;
+	
 }
 body {
     font-family: 'EB Garamond', serif;
